@@ -76,6 +76,7 @@ fin2 = time.clock()
 
 
 print("généré en ",(fin2 - debut)* 10,"secondes")
+print("Powered by AAB")
 
 
 print("   ================================= FIN =================================")
